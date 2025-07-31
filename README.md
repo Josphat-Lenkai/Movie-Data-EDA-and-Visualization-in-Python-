@@ -97,9 +97,9 @@ The business goal was to identify the key factors that lead to a movie’s finan
 
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, Seaborn, Matplotlib
-- **Visualization**: Tableau, Jupyter Notebook
+- **Visualization**: Jupyter Notebook
 - **Data Cleaning**: Regex, Currency normalization
-- **Data Source**: IMDb, BoxOfficeMojo, etc. (dataset already aggregated)
+- **Data Source**: IMDb, Kaggle (dataset already aggregated)
 
 ---
 
